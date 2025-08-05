@@ -1,38 +1,8 @@
 🕘️更新时间,#genre#
-2025-08-05 18:38:58,http://ygbh.site/php/bfgd.php?id=488
+2025-08-06 06:23:45,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://ygbh.site/php/bfgd.php?id=488
-CCTV-1,http://ygbh.site/php/bfgd.php?id=201
-CCTV-1,http://ygbh.site/php/bfgd.php?id=484
-CCTV-1,http://ygbh.site/php/bfgd.php?id=489
-CCTV-2,http://ygbh.site/php/bfgd.php?id=061
-CCTV-3,http://ygbh.site/php/bfgd.php?id=062
-CCTV-4,http://sh.lnott.top:880/dx04.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4,http://112.46.85.60:8009/hls/4/index.m3u8
-CCTV-4,http://ygbh.site/php/bfgd.php?id=063
-CCTV-5,http://sh.lnott.top:880/dx05.m3u8
-CCTV-5,http://ygbh.site/php/bfgd.php?id=064
-CCTV-5+,http://sh.lnott.top:880/dx16.m3u8
-CCTV-5+,http://ygbh.site/php/bfgd.php?id=246
-CCTV-6,http://sh.lnott.top:880/dx06.m3u8
-CCTV-6,http://ygbh.site/php/bfgd.php?id=065
-CCTV-7,http://sh.lnott.top:880/dx07.m3u8
-CCTV-7,http://ygbh.site/php/bfgd.php?id=127
-CCTV-8,http://sh.lnott.top:880/dx08.m3u8
-CCTV-9,http://sh.lnott.top:880/dx09.m3u8
-CCTV-9,http://ygbh.site/php/bfgd.php?id=128
-CCTV-10,http://sh.lnott.top:880/dx10.m3u8
-CCTV-11,http://sh.lnott.top:880/dx11.m3u8
-CCTV-11,http://ygbh.site/php/bfgd.php?id=130
-CCTV-12,http://sh.lnott.top:880/dx12.m3u8
-CCTV-12,http://ygbh.site/php/bfgd.php?id=131
-CCTV-13,http://sh.lnott.top:880/dx13.m3u8
-CCTV-13,http://ygbh.site/php/bfgd.php?id=067
-CCTV-14,http://sh.lnott.top:880/dx14.m3u8
-CCTV-14,http://ygbh.site/php/bfgd.php?id=132
-CCTV-15,http://sh.lnott.top:880/dx15.m3u8
 
 💰央视付费频道,#genre#
 
@@ -41,8 +11,5 @@ CCTV-15,http://sh.lnott.top:880/dx15.m3u8
 ☘️广东频道,#genre#
 
 🌊港·澳·台,#genre#
-明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 
 🏀体育频道,#genre#
