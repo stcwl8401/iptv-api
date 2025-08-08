@@ -12,11 +12,12 @@ https://raw.githubusercontent.com/iodata999/frxz751113-IPTVzb1/refs/heads/main/�
 https://cnb.cool/junchao.tang/llive/-/git/raw/main/中国IPTV
 https://live.izbds.com/tv/iptv4.txt
 http://47.120.41.246:8899/zb.txt
-http://rihou.cc:555/gggg.nzk
+https://unraid.stcwl.xyz/pg/gggg.txt
 http://1.94.31.214/live/livelite.txt
 http://lisha521.dynv6.net.fh4u.org/tv.txt
 https://iptv.catvod.com/tv.m3u
 https://live.zbds.top/tv/iptv4.txt
 https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+
 https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt
